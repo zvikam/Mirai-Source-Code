@@ -1,0 +1,28 @@
+var wget_8c =
+[
+    [ "__exit", "wget_8c.html#a98997f8af097472ccf19534c24cb4a24", null ],
+    [ "close", "wget_8c.html#a9c7f6d5331abb2692a876d5ee67474b7", null ],
+    [ "connect", "wget_8c.html#adfd4ee688142ebda1142c1b0c7577e91", null ],
+    [ "DOWNLOAD_MSG", "wget_8c.html#a1f1c437c9d0ba933ef2cdb767ba105d5", null ],
+    [ "DOWNLOAD_MSG_LEN", "wget_8c.html#a100f50e50ea4fb8b148d38e8f17b4eaa", null ],
+    [ "EXEC_MSG", "wget_8c.html#ac2146a4368b0cbe5375b32ae7f7f01b2", null ],
+    [ "EXEC_MSG_LEN", "wget_8c.html#a563353a34bafaf61f15aa17dc497bf74", null ],
+    [ "HTONL", "wget_8c.html#a56db719246f1d816e162b3ae60bf58cd", null ],
+    [ "HTONS", "wget_8c.html#a69a7a4951ff21b302267532c21ee78fc", null ],
+    [ "open", "wget_8c.html#a8854c2a82db965759bd6095a666ffb76", null ],
+    [ "read", "wget_8c.html#a68dc4fd7189d34e2052e25ada13f89e0", null ],
+    [ "SCN", "wget_8c.html#a827bc7826f3c0abe45e6f0cebc89872b", null ],
+    [ "socket", "wget_8c.html#aa8318fbee111c5bde5952c63e894c962", null ],
+    [ "STDERR", "wget_8c.html#a3a540e3eef339eec06aff31c4ba1eb25", null ],
+    [ "STDIN", "wget_8c.html#ac00bfb46347d26fdc58568fe1ab5fa5b", null ],
+    [ "STDOUT", "wget_8c.html#a8875037d0772a4fc34516f1e03d7e238", null ],
+    [ "write", "wget_8c.html#ac40a1eaac5f8dbc1eef9b944d494770c", null ],
+    [ "main", "wget_8c.html#a7a29781a20c5dd4153c3c1cecf0ff328", null ],
+    [ "x__exit", "wget_8c.html#a0c8ddc429cc2c21fccdc9a93cd46c434", null ],
+    [ "xclose", "wget_8c.html#aa6fc2cf75da82e3d18dfc3f8ce383145", null ],
+    [ "xconnect", "wget_8c.html#a6f67c7e9a35b82ed56634e82b00f0331", null ],
+    [ "xopen", "wget_8c.html#a5cc7a7245c891d41f3c533616e807ac1", null ],
+    [ "xread", "wget_8c.html#a000b46f54ba45eda6e187e581982d69c", null ],
+    [ "xsocket", "wget_8c.html#a728f7858959f641186eacf59a5302da5", null ],
+    [ "xwrite", "wget_8c.html#ab616878efd6e91d7d37783c8b81f24bf", null ]
+];
